@@ -1,0 +1,20 @@
+{
+  "name": "vue3-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node scripts/dev.js reactivity -f global"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^28.1.3",
+    "esbuild": "^0.14.47",
+    "jest": "^28.1.2",
+    "minimist": "^1.2.6",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.4"
+  }
+}
